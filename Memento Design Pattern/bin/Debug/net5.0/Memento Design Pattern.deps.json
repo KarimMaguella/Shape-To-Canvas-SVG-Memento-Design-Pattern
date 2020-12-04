@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Memento Design Pattern/1.0.0": {
+        "runtime": {
+          "Memento Design Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memento Design Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

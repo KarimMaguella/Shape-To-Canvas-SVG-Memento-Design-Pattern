@@ -1,0 +1,10 @@
+<svg height="850" width="1450" xmlns="http://www.w3.org/2000/svg">
+
+<circle cx="225" cy="147" r="469" stroke="black" stroke-width="2" fill="purple" />
+
+<rect width="429" height="429" x="108" y="223" stroke="purple" stroke-width="20" fill="cyan" />
+
+<rect width="63" height="293" x="294" y="149" stroke="purple" stroke-width="20" fill="cyan" />
+
+
+</svg>
